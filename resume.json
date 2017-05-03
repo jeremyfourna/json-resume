@@ -1,0 +1,109 @@
+{
+	"basics": {
+		"name": "Jeremy Fourna",
+		"label": "Product Manager",
+		"picture": "http://fr.gravatar.com/userimage/38836388/9001259366987aba90662aa25784889c.jpg",
+		"email": "jeremyfourna@gmail.com",
+		"phone": "+49 1522 4595603",
+		"summary": "Product Manager/Functional Project Manager with more than 5 years of experience in the web, e-commerce, warehouse management system and the marketplace industries",
+		"location": {
+			"address": "Kochhannstrasse 38",
+			"postalCode": "10249",
+			"city": "Berlin",
+			"countryCode": "DE",
+			"region": "Berlin"
+		},
+		"profiles": [{
+			"network": "Twitter",
+			"username": "jeremyfourna",
+			"url": "https://twitter.com/jeremyfourna"
+		}, {
+			"network": "LinkedIn",
+			"username": "jeremyfourna",
+			"url": "https://www.linkedin.com/in/jeremyfourna/?locale=en_US"
+		}, {
+			"network": "Github",
+			"username": "jeremyfourna",
+			"url": "https://github.com/jeremyfourna"
+		}]
+	},
+	"work": [{
+		"company": "Westwing Home & Living",
+		"position": "Product Manager",
+		"website": "https://www.westwing.de",
+		"startDate": "2016-11-01",
+		"endDate": "2017-06-30",
+		"summary": "- Product Manager of a WMS called OMS (From Rocket Internet)<br>- Allow OMS to work with multiple warehouse on the same instance<br>- Refactoring of existing process to reduce cost and improve user productivity"
+	}, {
+		"company": "Twenga",
+		"position": "Functional Project Manager",
+		"website": "https://www.twenga-solutions.com",
+		"startDate": "2015-10-01",
+		"endDate": "2016-10-15",
+		"summary": "- Overhaul of the onboarding process for customers : reducing launch times by 82.5%<br>- Launch of dashboards : possibility for customers to track their performance<br>- Development of a feature to define the objectives of COS / ROI for AdWords & Shopping campaigns on a product level<br>- Implementation of an automatic process to charge customers based on their advertising spending : saving time for the accounting team"
+	}, {
+		"company": "Neteven",
+		"position": "Product Manager",
+		"website": "https://www.neteven.com",
+		"startDate": "2012-11-01",
+		"endDate": "2015-09-30",
+		"summary": "- Coordination of marketplaces integration (Galeries Lafayette, Zalando, Spartoo, Privalia, Tmall) in the application : improving customer loyalty and increasing revenues by 20%<br>- Design and supervision of the modules development for PrestaShop, Magento and Hybris : registration of dozens of new clients<br>- Revision of the product catalogs management : improving their publication and increasing the number of marketplaces available for each customer"
+	}],
+	"volunteer": [{
+		"organization": "Festival EKlore des Talents et de l'Emploi",
+		"position": "Chief Technical Officer",
+		"website": "http://www.festivaleklore.fr/",
+		"startDate": "2015-12-01",
+		"summary": "Build the website for the event",
+		"highlights": [
+			"Build the website with Meteor.js",
+			"More than 800 people registered for the event via the website"
+		]
+	}, {
+		"organization": "Mozilla Developer Network",
+		"position": "Translator",
+		"website": "https://developer.mozilla.org",
+		"startDate": "2013-06-01",
+		"endDate": "2013-06-30",
+		"summary": "Tranlate JS API from English to French"
+	}],
+	"education": [{
+		"institution": "Institut Supérieur Européen de Gestion",
+		"area": "Financial Engineering and Stock Markets",
+		"studyType": "Master",
+		"startDate": "2007-09-01",
+		"endDate": "2012-05-31",
+		"gpa": "2.3",
+		"courses": [
+			"Stock Market",
+			"Options",
+			"Accounting",
+			"Economics"
+		]
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Advanced",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript"
+		]
+	}, {
+		"name": "Product Management for B2B product",
+		"level": "Master",
+		"keywords": [
+			"Scrum",
+			"Agile",
+			"Functional Specification",
+			"Roadmap"
+		]
+	}],
+	"languages": [{
+		"name": "French",
+		"level": "Native speaker"
+	}, {
+		"name": "English",
+		"level": "Fluent"
+	}]
+}
